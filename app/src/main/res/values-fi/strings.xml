@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world_land">Terve vaakatasoinen
+maailma!</string>
+    <string name="hello_world">Hei Maailma</string>
+
+</resources>
